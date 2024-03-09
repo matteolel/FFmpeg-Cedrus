@@ -48,4 +48,3 @@ unsigned int h264enc_get_bytestream_length(const h264enc *c);
 int h264enc_encode_picture(h264enc *c);
 
 #endif
-
